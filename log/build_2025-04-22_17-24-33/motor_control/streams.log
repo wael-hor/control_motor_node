@@ -1,0 +1,39 @@
+[3.300s] Invoking command in '/home/wael/ros2_ws/src/motor_control': PYTHONPATH=/home/wael/ros2_ws/build/motor_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wael/ros2_ws/install/motor_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motor_control build --build-base /home/wael/ros2_ws/build/motor_control/build install --record /home/wael/ros2_ws/build/motor_control/install.log --single-version-externally-managed install_data
+[4.553s] running egg_info
+[4.556s] creating ../../build/motor_control/motor_control.egg-info
+[4.557s] writing ../../build/motor_control/motor_control.egg-info/PKG-INFO
+[4.558s] writing dependency_links to ../../build/motor_control/motor_control.egg-info/dependency_links.txt
+[4.559s] writing entry points to ../../build/motor_control/motor_control.egg-info/entry_points.txt
+[4.559s] writing requirements to ../../build/motor_control/motor_control.egg-info/requires.txt
+[4.560s] writing top-level names to ../../build/motor_control/motor_control.egg-info/top_level.txt
+[4.561s] writing manifest file '../../build/motor_control/motor_control.egg-info/SOURCES.txt'
+[4.568s] reading manifest file '../../build/motor_control/motor_control.egg-info/SOURCES.txt'
+[4.572s] writing manifest file '../../build/motor_control/motor_control.egg-info/SOURCES.txt'
+[4.573s] running build
+[4.573s] running build_py
+[4.574s] creating /home/wael/ros2_ws/build/motor_control/build
+[4.575s] creating /home/wael/ros2_ws/build/motor_control/build/lib
+[4.575s] creating /home/wael/ros2_ws/build/motor_control/build/lib/motor_control
+[4.576s] copying motor_control/motor_control_node.py -> /home/wael/ros2_ws/build/motor_control/build/lib/motor_control
+[4.576s] copying motor_control/__init__.py -> /home/wael/ros2_ws/build/motor_control/build/lib/motor_control
+[4.577s] running install
+[4.578s] running install_lib
+[4.581s] creating /home/wael/ros2_ws/install/motor_control/lib/python3.10/site-packages/motor_control
+[4.582s] copying /home/wael/ros2_ws/build/motor_control/build/lib/motor_control/motor_control_node.py -> /home/wael/ros2_ws/install/motor_control/lib/python3.10/site-packages/motor_control
+[4.583s] copying /home/wael/ros2_ws/build/motor_control/build/lib/motor_control/__init__.py -> /home/wael/ros2_ws/install/motor_control/lib/python3.10/site-packages/motor_control
+[4.586s] byte-compiling /home/wael/ros2_ws/install/motor_control/lib/python3.10/site-packages/motor_control/motor_control_node.py to motor_control_node.cpython-310.pyc
+[4.592s] byte-compiling /home/wael/ros2_ws/install/motor_control/lib/python3.10/site-packages/motor_control/__init__.py to __init__.cpython-310.pyc
+[4.593s] running install_data
+[4.594s] creating /home/wael/ros2_ws/install/motor_control/share/ament_index
+[4.594s] creating /home/wael/ros2_ws/install/motor_control/share/ament_index/resource_index
+[4.595s] creating /home/wael/ros2_ws/install/motor_control/share/ament_index/resource_index/packages
+[4.595s] copying resource/motor_control -> /home/wael/ros2_ws/install/motor_control/share/ament_index/resource_index/packages
+[4.596s] copying package.xml -> /home/wael/ros2_ws/install/motor_control/share/motor_control
+[4.596s] creating /home/wael/ros2_ws/install/motor_control/share/motor_control/launch
+[4.597s] copying launch/motor_control.launch.py -> /home/wael/ros2_ws/install/motor_control/share/motor_control/launch
+[4.597s] running install_egg_info
+[4.605s] Copying ../../build/motor_control/motor_control.egg-info to /home/wael/ros2_ws/install/motor_control/lib/python3.10/site-packages/motor_control-0.0.1-py3.10.egg-info
+[4.610s] running install_scripts
+[4.711s] Installing motor_control_node script to /home/wael/ros2_ws/install/motor_control/lib/motor_control
+[4.713s] writing list of installed files to '/home/wael/ros2_ws/build/motor_control/install.log'
+[4.835s] Invoked command in '/home/wael/ros2_ws/src/motor_control' returned '0': PYTHONPATH=/home/wael/ros2_ws/build/motor_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/wael/ros2_ws/install/motor_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/motor_control build --build-base /home/wael/ros2_ws/build/motor_control/build install --record /home/wael/ros2_ws/build/motor_control/install.log --single-version-externally-managed install_data

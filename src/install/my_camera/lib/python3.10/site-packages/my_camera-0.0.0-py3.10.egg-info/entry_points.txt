@@ -1,0 +1,5 @@
+[console_scripts]
+ip_stream_node = my_camera.ip_stream_node:main
+usbcam_node = my_camera.usbcam_node:main
+webcam_node = my_camera.webcam_node:main
+

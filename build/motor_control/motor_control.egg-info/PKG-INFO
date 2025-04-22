@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: motor-control
+Version: 0.0.1
+Summary: ROS 2 package for controlling stepper motors using RPi.GPIO
+Home-page: UNKNOWN
+Maintainer: Your Name
+Maintainer-email: user@example.com
+License: Apache License 2.0
+Platform: UNKNOWN
+
+UNKNOWN
+

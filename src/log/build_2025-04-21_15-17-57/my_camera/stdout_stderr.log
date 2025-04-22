@@ -1,0 +1,25 @@
+running egg_info
+writing ../build/my_camera/my_camera.egg-info/PKG-INFO
+writing dependency_links to ../build/my_camera/my_camera.egg-info/dependency_links.txt
+writing entry points to ../build/my_camera/my_camera.egg-info/entry_points.txt
+writing requirements to ../build/my_camera/my_camera.egg-info/requires.txt
+writing top-level names to ../build/my_camera/my_camera.egg-info/top_level.txt
+reading manifest file '../build/my_camera/my_camera.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/my_camera/my_camera.egg-info/SOURCES.txt'
+running build
+running build_py
+copying my_camera/usbcam_node.py -> /home/wael/ros2_ws/src/build/my_camera/build/lib/my_camera
+running install
+running install_lib
+copying /home/wael/ros2_ws/src/build/my_camera/build/lib/my_camera/usbcam_node.py -> /home/wael/ros2_ws/src/install/my_camera/lib/python3.10/site-packages/my_camera
+byte-compiling /home/wael/ros2_ws/src/install/my_camera/lib/python3.10/site-packages/my_camera/usbcam_node.py to usbcam_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/wael/ros2_ws/src/install/my_camera/lib/python3.10/site-packages/my_camera-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/my_camera/my_camera.egg-info to /home/wael/ros2_ws/src/install/my_camera/lib/python3.10/site-packages/my_camera-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ip_stream_node script to /home/wael/ros2_ws/src/install/my_camera/lib/my_camera
+Installing usbcam_node script to /home/wael/ros2_ws/src/install/my_camera/lib/my_camera
+Installing webcam_node script to /home/wael/ros2_ws/src/install/my_camera/lib/my_camera
+writing list of installed files to '/home/wael/ros2_ws/src/build/my_camera/install.log'
