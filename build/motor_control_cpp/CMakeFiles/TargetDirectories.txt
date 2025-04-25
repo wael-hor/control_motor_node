@@ -1,0 +1,10 @@
+/home/wael/ros2_ws/build/motor_control_cpp/CMakeFiles/uninstall.dir
+/home/wael/ros2_ws/build/motor_control_cpp/CMakeFiles/motor_control_cpp_uninstall.dir
+/home/wael/ros2_ws/build/motor_control_cpp/CMakeFiles/motor_control_node.dir
+/home/wael/ros2_ws/build/motor_control_cpp/CMakeFiles/test.dir
+/home/wael/ros2_ws/build/motor_control_cpp/CMakeFiles/edit_cache.dir
+/home/wael/ros2_ws/build/motor_control_cpp/CMakeFiles/rebuild_cache.dir
+/home/wael/ros2_ws/build/motor_control_cpp/CMakeFiles/list_install_components.dir
+/home/wael/ros2_ws/build/motor_control_cpp/CMakeFiles/install.dir
+/home/wael/ros2_ws/build/motor_control_cpp/CMakeFiles/install/local.dir
+/home/wael/ros2_ws/build/motor_control_cpp/CMakeFiles/install/strip.dir

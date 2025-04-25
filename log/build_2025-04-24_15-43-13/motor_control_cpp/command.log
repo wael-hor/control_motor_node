@@ -1,0 +1,6 @@
+Invoking command in '/home/wael/ros2_ws/build/motor_control_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wael/ros2_ws/src/motor_control_cpp -DCMAKE_INSTALL_PREFIX=/home/wael/ros2_ws/install/motor_control_cpp
+Invoked command in '/home/wael/ros2_ws/build/motor_control_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/wael/ros2_ws/src/motor_control_cpp -DCMAKE_INSTALL_PREFIX=/home/wael/ros2_ws/install/motor_control_cpp
+Invoking command in '/home/wael/ros2_ws/build/motor_control_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wael/ros2_ws/build/motor_control_cpp -- -j4 -l4
+Invoked command in '/home/wael/ros2_ws/build/motor_control_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/wael/ros2_ws/build/motor_control_cpp -- -j4 -l4
+Invoking command in '/home/wael/ros2_ws/build/motor_control_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wael/ros2_ws/build/motor_control_cpp
+Invoked command in '/home/wael/ros2_ws/build/motor_control_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/wael/ros2_ws/build/motor_control_cpp

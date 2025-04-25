@@ -1,0 +1,17 @@
+/home/wael/ros2_ws/install/motor_control_cpp/lib/motor_control_cpp/motor_control_node
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp//launch/motor_control.launch.py
+/home/wael/ros2_ws/install/motor_control_cpp/share/ament_index/resource_index/package_run_dependencies/motor_control_cpp
+/home/wael/ros2_ws/install/motor_control_cpp/share/ament_index/resource_index/parent_prefix_path/motor_control_cpp
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/environment/ament_prefix_path.sh
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/environment/ament_prefix_path.dsv
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/environment/path.sh
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/environment/path.dsv
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/local_setup.bash
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/local_setup.sh
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/local_setup.zsh
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/local_setup.dsv
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/package.dsv
+/home/wael/ros2_ws/install/motor_control_cpp/share/ament_index/resource_index/packages/motor_control_cpp
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/cmake/motor_control_cppConfig.cmake
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/cmake/motor_control_cppConfig-version.cmake
+/home/wael/ros2_ws/install/motor_control_cpp/share/motor_control_cpp/package.xml
